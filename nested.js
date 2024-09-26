@@ -74,7 +74,23 @@
 // console.log(numbers);
 
 
+// const numbers = [12, 13, 14, 15, 16, 17, 18]
+// console.log(numbers[1]);
+
+// numbers[2] = 'h'
+// console.log(numbers);
 
 
 
+// const numbers = [ 12, 13, 14, 15,16, 17]
+// console.log(numbers);
+// console.log(numbers[1]);
 
+// numbers[2] = 'hello world'
+// console.log(numbers);
+
+
+const numbers = [ 12,13, 14, 15, 16, 17, ]
+console.log(numbers);
+numbers.push(9000)
+console.log(numbers);
